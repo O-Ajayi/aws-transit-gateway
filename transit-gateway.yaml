@@ -95,5 +95,5 @@ Resources: # CloudFormation Resources
 
 Outputs:
   oTransitGatewayId: #Outputs the Transit Gateway ID
-    Description: The Transit Gateway ID
+    Description: Sample Transit Gateway ID
     Value: !Ref rTransitGateway
